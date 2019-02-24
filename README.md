@@ -1,2 +1,0 @@
-# helloworldblog
-Hello world blog
